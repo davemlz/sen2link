@@ -13,13 +13,13 @@ def read(filename):
 
 
 setup(
-    name="sen2id",
+    name="sen2link",
     version="2024.7.0",
     url="https://github.com/davemlz/sen2id",
     license="MIT",
     author="David Montero Loaiza",
     author_email="dml.mont@gmail.com",
-    description="Easily match Sentinel-2 IDs in Google Earth Engine and Planetary Computer",
+    description="Easily link Sentinel-2 IDs in Google Earth Engine and Planetary Computer",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     packages=find_packages(exclude=("tests",)),
