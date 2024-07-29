@@ -1,0 +1,3 @@
+earthengine-api
+planetary_computer
+pystac_client
