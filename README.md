@@ -1,2 +1,2 @@
-# sen2id
-A Python package that links Sentinel-2 IDs from Google Earth Engine and Planetary Computer
+# sen2link
+Easily link Sentinel-2 IDs in Google Earth Engine and Planetary Computer
